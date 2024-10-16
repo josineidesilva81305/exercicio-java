@@ -1,1 +1,1 @@
-# exercicio-java
+import java .util.scanner
